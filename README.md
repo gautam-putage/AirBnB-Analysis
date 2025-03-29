@@ -45,6 +45,14 @@ The dataset includes details about **pricing, locations, availability, and guest
 
 ---
 
+## 📸 Sample Visualization  
+Here is a sample visualization showing the distribution of Airbnb prices:  
+
+![output_40_0](images/output_40_0.png) 
+
+![output_46_0](images/output_46_0.png) 
+---
+
 ## 🔍 Sample Code  
 ```python
 import pandas as pd
