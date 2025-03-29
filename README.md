@@ -77,7 +77,7 @@ jupyter notebook AirBnB.ipynb
 ## 📎 View Full Notebook  
 For a better notebook view, check it out on `nbviewer`:  
 
-👉 **[View on nbviewer](https://nbviewer.org/github/gautam-putage/Airbnb-Analysis/blob/main/AirBnB.ipynb)**  
+👉 **[View on nbviewer](https://nbviewer.org/github/gautam-putage/AirBnB-Analysis/blob/main/AirBnB.ipynb)**  
 
 ---
 
